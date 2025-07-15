@@ -1,6 +1,6 @@
 # Trabajorecuperativo
 *
- * dijkstra_parallel.cpp
+ 
  *
  * Implementación paralelizada del algoritmo de Dijkstra usando OpenMP.
  * Lenguaje: C++ (Ubuntu 24.04 LTS / MinGW)
